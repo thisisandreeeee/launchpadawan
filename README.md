@@ -52,3 +52,6 @@ When you're done, save `sample.json` and you should be good to go. Remember, the
 ```
 python poster.py
 ```
+
+### Developer Notes
+If you're interested in modifying the script, all you really need to know is the `Selenium` library, and how to find the xpath of a web element. Feel free to contact me with any questions you might have.
