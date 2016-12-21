@@ -9,7 +9,7 @@ git clone https://github.com/thisisandreeeee/launchpadawan.git /path/to/desired/
 cd /path/to/desired/directory
 pip install -r requirements.txt
 echo "USERNAME='your launchpad email address'\nPASSWORD='your launchpad password'" >> settings.py
-wget http://chromedriver.storage.googleapis.com/2.23/chromedriver_mac64.zip
+wget http://chromedriver.storage.googleapis.com/2.25/chromedriver_mac64.zip
 unzip chromedriver_mac64.zip
 rm chromedriver_mac64.zip
 ```
