@@ -1,4 +1,6 @@
 ## Automate the tedious process of uploading interviews to Launchpad Central, and delude yourself that you're going to get an A for TR4049.
+![Launch Padawan Demo](https://raw.githubusercontent.com/thisisandreeeee/launchpadawan/master/demo.gif)
+
 The script has been tested to work with Python 2.
 
 First up, let's figure out what OS you're on. If you're on Windows, you're on your own buddy. If you're on OSX, great job! Edit the following code block, and enter it into your terminal to get started.
