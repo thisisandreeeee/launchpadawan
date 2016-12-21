@@ -45,6 +45,7 @@ There are 3 possible values for the action ID.
 - `1` is for Don't Care
 - `2` is for Nice to have
 - `3` is for Must Have
+
 Change the action IDs according to whether you would like to validate / invalidate that particular hypothesis.
 
 ### In my nutshell
