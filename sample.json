@@ -1,0 +1,13 @@
+[
+    {
+        "email": "linus.torvald@hotmale.com",
+        "role": "The Rootfather",
+        "date": "12-18-2016", 
+        "insights": "This is NOT a summary of your interaction. This is the 'A-Ha! Moment' you experienced.",
+        "description": "A good framework to follow here is: What we thought before this meeting. What we learned from this meeting. What we are doing next as a result of this meeting.",
+        "hypotheses": [
+            [900208, 1],
+            [900342, 3]
+        ]
+    }
+]
