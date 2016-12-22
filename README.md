@@ -13,7 +13,7 @@ wget http://chromedriver.storage.googleapis.com/2.25/chromedriver_mac64.zip
 unzip chromedriver_mac64.zip
 rm chromedriver_mac64.zip
 ```
-If you're on linux, well, figure it out.
+If you're on linux, well, figuring it out is half the linux spirit isn't it?
 
 ### Show me how to win at life
 If you have a bunch of interviews that you want to add, but are too lazy and annoyed to bother navigating an abhorent wasteland that is the launchpad UX, boy will this script help. You will still have to phrase your survey results in terms of the Key Insights, and Interview Description - what this script cannot do is paraphrase your survey results into something the LLC accepts. This is automation, not magic.
